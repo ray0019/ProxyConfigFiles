@@ -15,6 +15,9 @@ domain_suffix_set:
   - sntp.net
   - xianniu.cc
   - xianniu.com
+  - keet.io
+  - holepunch.to
+  - pearruntime.app
 domain_set:
   - ifconfig.me
   - kahaoquan.com
