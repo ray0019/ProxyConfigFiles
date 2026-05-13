@@ -1,0 +1,11 @@
+payload:
+  # Siri 和听写请求
+  - DOMAIN,guzzoni.apple.com
+  # 搜索服务 (Siri, Spotlight, Safari, Music etc.)
+  - DOMAIN-SUFFIX,smoot.apple.com
+  # 私有云计算 (Private Cloud Compute)
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,apple-relay.fastly-edge.com
+  - DOMAIN,cp4.cloudflare.com
+  # Apple 智能扩展 (Apple Intelligence)
+  - DOMAIN,apple-relay.apple.com
