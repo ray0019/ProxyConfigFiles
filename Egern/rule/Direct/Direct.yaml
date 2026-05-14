@@ -20,6 +20,8 @@ domain_suffix_set:
   - pearruntime.app
   - hyatt.com.cn
   - hyatt.com
+  - hexin.cn
+  - ip-api.com
 domain_set:
   - ifconfig.me
   - kahaoquan.com
