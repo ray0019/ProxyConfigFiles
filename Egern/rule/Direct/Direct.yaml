@@ -22,6 +22,75 @@ domain_suffix_set:
   - hyatt.com
   - hexin.cn
   - ip-api.com
+  - douyin.com
+  - douyincdn.com
+  - douyinpic.com
+  - douyinstatic.com
+  - douyinvod.com
+  - iesdouyin.com
+  - amemv.com
+  - bytedance.com
+  - snssdk.com
+  - weibo.com
+  - weibo.cn
+  - sina.com.cn
+  - sinaimg.cn
+  - weibocdn.com
+  - xiaohongshu.com
+  - xhscdn.com
+  - zhihu.com
+  - zhimg.com
+  - kuaishou.com
+  - kwaicdn.com
+  - gifshow.com
+  - bilibili.com
+  - bilivideo.com
+  - hdslb.com
+  - b23.tv
+  - qq.com
+  - gtimg.com
+  - taobao.com
+  - tmall.com
+  - alipay.com
+  - alipayobjects.com
+  - jd.com
+  - meituan.com
+  - dianping.com
+  - amap.com
+  - 163.com
+  - iqiyi.com
+  - youku.com
+  - 12306.cn
+  - icbc.com.cn
+  - ccb.com
+  - abchina.com
+  - boc.cn
+  - bankcomm.com
+  - psbc.com
+  - cmbchina.com
+  - spdb.com.cn
+  - citicbank.com
+  - cmbc.com.cn
+  - cib.com.cn
+  - cebbank.com
+  - pingan.com
+  - cgbchina.com.cn
+  - hxb.com.cn
+  - bankofbeijing.com.cn
+  - bankofshanghai.com
+  - nbcb.com.cn
+  - hzbank.com.cn
+  - jsbchina.com
+  - njcb.com.cn
+  - srcb.com
+  - unionpay.com
+  - unionpaysecure.com
+  - 95516.com
+  - mybank.cn
+  - webank.com
+  - thsi.cn
+  - qishui.com
+  - chative.io
 domain_set:
   - ifconfig.me
   - kahaoquan.com
